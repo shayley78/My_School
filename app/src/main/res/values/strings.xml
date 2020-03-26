@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My School</string>
+    <string name="txtTitle">School Of Life University</string>
+    <string name="picDescription">School Image</string>
+    <string name="btnSchool">View School Info</string>
+    <string name="txtContactInfo">Contact Information</string>
+    <string name="txtStreet">1234 Learnbydoing Way.</string>
+    <string name="txtCityStateZip">Everywhere, FL 33702</string>
+    <string name="txtPhone">(555) 555-5555</string>
+</resources>
